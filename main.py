@@ -27,4 +27,4 @@ wc.recolor(color_func = image_colors)
 ##plt.axis('off')
 ##plt.show()
 
-wc.to_file('Batman_wordcloud2.png')
+wc.to_file('Batman_wordcloud.png')
